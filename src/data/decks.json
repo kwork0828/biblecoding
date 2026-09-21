@@ -1,0 +1,35 @@
+[
+  {
+    "id": "deck-john-core",
+    "name": "요한복음 핵심 구절",
+    "description": "요한복음에서 가장 널리 암송되는 핵심 구절 24개를 모았습니다.",
+    "isBuiltIn": true,
+    "verseIds": [
+      "john-1-1",
+      "john-1-12",
+      "john-1-14",
+      "john-3-16",
+      "john-3-17",
+      "john-4-24",
+      "john-6-35",
+      "john-6-37",
+      "john-8-12",
+      "john-8-32",
+      "john-10-10",
+      "john-10-11",
+      "john-10-27",
+      "john-10-28",
+      "john-11-25",
+      "john-13-34",
+      "john-14-6",
+      "john-14-27",
+      "john-15-5",
+      "john-15-13",
+      "john-16-33",
+      "john-17-3",
+      "john-20-29",
+      "john-20-31"
+    ],
+    "createdAt": 0
+  }
+]
